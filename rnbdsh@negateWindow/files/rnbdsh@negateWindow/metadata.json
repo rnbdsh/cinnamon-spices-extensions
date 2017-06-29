@@ -1,7 +1,7 @@
 {
     "website": "https://github.com/rnbdsh/negateWindow", 
     "url": "https://github.com/rnbdsh/negateWindow", 
-    "description": "A Cinnamon extension that allows to negate the window-color when you press super+i.", 
+    "description": "A Cinnamon extension that allows to negate the window-color. Hotkey can be changed in ~/.local/share/cinnamon/extensions/rnbdsh@negateWindow/extension.js.", 
     "version": "0.01", 
     "cinnamon-version": [
         "2.8", 
@@ -9,6 +9,6 @@
         "3.2", 
         "3.4"
     ], 
-    "name": "Negate Window on Ctrl+I", 
+    "name": "Negate Window on Super+I", 
     "uuid": "rnbdsh@negateWindow"
 }
